@@ -1,0 +1,29 @@
+{
+  "name": "kardus",
+  "version": "1.0.0",
+  "description": "Kardus (box) contains plain Node.js modules",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adilima/kardus.git"
+  },
+  "keywords": [
+    "kardus",
+    "box",
+    "node.js"
+  ],
+  "author": "Adi Lima",
+  "license": "Creative Commons Zero v1.0 Universal",
+  "bugs": {
+    "url": "https://github.com/adilima/kardus/issues"
+  },
+  "homepage": "https://github.com/adilima/kardus#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
